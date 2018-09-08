@@ -1,4 +1,4 @@
-# TBD_Automatas
+# TDC_Automatas
 Project for Theory of Computation.
 
 The project's requirements include:
